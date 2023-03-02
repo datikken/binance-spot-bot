@@ -13,3 +13,13 @@ Strategy:
 ```
     print('SELLING: ', order)
 ```
+
+
+**TODO
+
+1. Add mongo for analytics
+
+1.1 Open price
+1.2 Close price
+1.3 Time elapsed
+1.4 Position amount
